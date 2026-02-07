@@ -18,7 +18,7 @@ A Claude Code plugin marketplace maintained by Matthew Bellantoni.
 
 | Plugin | Description |
 |--------|-------------|
-| `brivlo-claude` | Brivlo plugin for Claude Code |
+| [`brivlo-claude`](https://github.com/mjbellantoni/brivlo-claude) | [Brivlo](https://github.com/mjbellantoni/brivlo) plugin for Claude Code |
 
 ## Adding a new plugin
 

@@ -1,0 +1,20 @@
+{
+  "name": "mjb-plugins",
+  "owner": {
+    "name": "Matthew Bellantoni"
+  },
+  "metadata": {
+    "description": "Matthew Bellantoni's Claude Code plugin marketplace",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "brivlo-claude",
+      "source": {
+        "source": "github",
+        "repo": "mjbellantoni/brivlo-claude"
+      },
+      "description": "Brivlo plugin for Claude Code"
+    }
+  ]
+}

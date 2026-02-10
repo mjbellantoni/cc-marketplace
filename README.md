@@ -19,6 +19,7 @@ A Claude Code plugin marketplace maintained by Matthew Bellantoni.
 | Plugin | Description |
 |--------|-------------|
 | [`brivlo-claude`](https://github.com/mjbellantoni/brivlo-claude) | [Brivlo](https://github.com/mjbellantoni/brivlo) plugin for Claude Code |
+| [`scm-tools`](https://github.com/mjbellantoni/scm-tools-claude) | Git workflow utilities for commits, PRs, and branch management|
 
 ## Adding a new plugin
 

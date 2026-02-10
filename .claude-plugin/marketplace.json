@@ -15,6 +15,14 @@
         "repo": "mjbellantoni/brivlo-claude"
       },
       "description": "Brivlo plugin for Claude Code"
+    },
+    {
+      "name": "scm-tools",
+      "source": {
+        "source": "github",
+        "repo": "mjbellantoni/scm-tools-claude"
+      },
+      "description": "Git workflow utilities for commits, PRs, and branch management"
     }
   ]
 }

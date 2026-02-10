@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "brivlo-claude@mjb-plugins": true,
+    "scm-tools@mjb-plugins": true
+  }
+}

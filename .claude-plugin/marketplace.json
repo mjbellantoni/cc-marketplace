@@ -23,6 +23,14 @@
         "repo": "mjbellantoni/scm-tools-claude"
       },
       "description": "Git workflow utilities for commits, PRs, and branch management"
+    },
+    {
+      "name": "will",
+      "source": {
+        "source": "github",
+        "repo": "mjbellantoni/will-claude"
+      },
+      "description": "Session continuity through structured handoff documents"
     }
   ]
 }

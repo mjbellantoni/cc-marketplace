@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Matthew Bellantoni's Claude Code plugin marketplace",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -31,6 +31,14 @@
         "repo": "mjbellantoni/will-claude"
       },
       "description": "Session continuity through structured handoff documents"
+    },
+    {
+      "name": "trello-cli",
+      "source": {
+        "source": "github",
+        "repo": "mjbellantoni/trello-cli-claude"
+      },
+      "description": "Trello board management via CLI"
     }
   ]
 }

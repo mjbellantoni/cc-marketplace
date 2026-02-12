@@ -39,6 +39,14 @@
         "repo": "mjbellantoni/trello-cli-claude"
       },
       "description": "Trello board management via CLI"
+    },
+    {
+      "name": "reviewers",
+      "source": {
+        "source": "github",
+        "repo": "mjbellantoni/reviewers-claude"
+      },
+      "description": "Opinionated code reviews from distinct perspectives"
     }
   ]
 }

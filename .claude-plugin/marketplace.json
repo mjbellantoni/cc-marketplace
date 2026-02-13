@@ -47,6 +47,14 @@
         "repo": "mjbellantoni/reviewers-claude"
       },
       "description": "Opinionated code reviews from distinct perspectives"
+    },
+    {
+      "name": "superpowers",
+      "source": {
+        "source": "github",
+        "repo": "mjbellantoni/superpowers"
+      },
+      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques"
     }
   ]
 }

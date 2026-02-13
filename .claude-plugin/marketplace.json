@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "brivlo-claude",
+      "name": "brivlo",
       "source": {
         "source": "github",
         "repo": "mjbellantoni/brivlo-claude"

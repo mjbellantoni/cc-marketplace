@@ -51,10 +51,10 @@
     {
       "name": "superpowers",
       "source": {
-        "source": "github",
-        "repo": "mjbellantoni/superpowers"
+        "source": "url",
+        "url": "git@github-superpowers:mjbellantoni/superpowers.git"
       },
-      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques"
+      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques (forked)"
     }
   ]
 }

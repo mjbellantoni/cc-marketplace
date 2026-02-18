@@ -43,8 +43,8 @@
     {
       "name": "reviewers",
       "source": {
-        "source": "github",
-        "repo": "mjbellantoni/reviewers-claude"
+        "source": "url",
+        "url": "git@github-reviewers-claude:mjbellantoni/reviewers-claude.git"
       },
       "description": "Opinionated code reviews from distinct perspectives"
     },
